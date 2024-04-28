@@ -5,8 +5,7 @@ steps:
       [
         "build",
         "-t",
-        "asia-east1-docker.pkg.dev/${PROJECT_ID}/game/godzillashooting
-",
+        "asia-east1-docker.pkg.dev/${PROJECT_ID}/game/godzillashooting",
         ".",
       ]
   # (2)ビルドしたコンテナイメージをArtifact Registryにプッシュ
