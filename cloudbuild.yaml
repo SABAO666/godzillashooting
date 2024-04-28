@@ -20,7 +20,7 @@ steps:
     args:
       - "run"
       - "deploy"
-      - "sns-checker"
+      - "godzillashooting"
       - "--image"
       - "asia-east1-docker.pkg.dev/${PROJECT_ID}/game/godzillashooting"
       - "--region"
